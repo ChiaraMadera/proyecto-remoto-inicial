@@ -1,2 +1,5 @@
 # Notas del Proyecto
+
 - Agregar notas desde la segunda copia
+- Agregando mas informacion del proyecto a las notas
+
